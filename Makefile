@@ -1,3 +1,3 @@
 
 run: main.c
-	cc main.c -o main
+	cc Server/server.c main.c -o main
