@@ -1,1 +1,1 @@
-int getNum();
+s
